@@ -36,4 +36,5 @@ Ushbu loyiha **Convolutional Neural Networks (CNN)** asosida qurilgan **yuzdagi 
 │
 ├── app.py                # Modelni ishga tushirish uchun Streamlit ilovasi
 ├── Web-kamera.ipynb      # Modelni tekshirish uchun Jupyter Notebook
+├── Web-camera.ipynb      # Modelni yaratish uchun Colab
 ├── README.md             # Loyihaning tavsifi
