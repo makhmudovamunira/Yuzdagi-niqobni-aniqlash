@@ -8,9 +8,8 @@ Ushbu loyiha **Convolutional Neural Networks (CNN)** asosida qurilgan **yuzdagi 
 ## 🚀 Xususiyatlari  
 ✅ **Real vaqt rejimida aniqlash** – Kamera orqali jonli tasvirlarni tahlil qilish  
 ✅ **Aniqlikni oshirish uchun optimallashtirilgan**  
-✅ **3 ta sinfni aniqlash**:  
+✅ **2 ta sinfni aniqlash**:  
    - 🟢 **With Mask** – Niqob taqqan  
-   - 🟡 **Mask Worn Incorrectly** – Niqob noto‘g‘ri taqqan  
    - 🔴 **Without Mask** – Niqobsiz  
 
 ---
@@ -29,7 +28,6 @@ Ushbu loyiha **Convolutional Neural Networks (CNN)** asosida qurilgan **yuzdagi 
 ├── dataset/              # Annotatsiya qilingan ma'lumotlar to‘plami
 │   ├── with_mask/        # Niqobli yuzlar
 │   ├── without_mask/     # Niqobsiz yuzlar
-│   ├── mask_weared_incorrect/  # Noto‘g‘ri taqqan niqoblar
 │
 ├── model/                # Model arxitekturasi va og‘irliklar
 │   ├── face_mask_model.h5
